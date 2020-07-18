@@ -1,7 +1,7 @@
 # DinoBot-Q-learning
 Chrome's Dinosaur learns to play in its environment with the help of reinforcement learning 
 
-**Author: Vighnesh Ghantasala**
+***Author: Vighnesh Ghantasala***
 # prerequisites
   * __python 3.7__
   
@@ -19,4 +19,4 @@ Chrome's Dinosaur learns to play in its environment with the help of reinforceme
 
 ## Additional Reference:
 
-**Learn more about Q-learning: https://www.youtube.com/watch?v=LzaWrmKL1Z4**
+**Learn more about Reinforcement Learning: https://www.youtube.com/watch?v=LzaWrmKL1Z4**
