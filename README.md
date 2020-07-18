@@ -16,3 +16,9 @@ Chrome's Dinosaur learns to play in its environment with the help of reinforceme
 **[DM @twitter:trojanOO7](https://twitter.com/trojanOO7)**
 
 **[Connect @LinkedIn:VighneshGhantasala](https://www.linkedin.com/in/vighnesh-ghantasala-49394094)**
+
+### Thanks for support **[Team Indian servers](https://www.youtube.com/channel/UCatqeo134VuJdH1HpeCSzTg)**
+
+### Additional Reference:
+
+### Learn more about Q-learning: https://www.youtube.com/watch?v=LzaWrmKL1Z4 
