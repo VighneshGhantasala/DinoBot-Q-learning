@@ -19,6 +19,6 @@ Chrome's Dinosaur learns to play in its environment with the help of reinforceme
 
 ## Additional Reference:
 
-**Do read blog post:** https://greymatterpro.in/datascience/applied-reinforcement-learning-chromes-dinosaur-game/
+**Do read blog post: https://greymatterpro.in/datascience/applied-reinforcement-learning-chromes-dinosaur-game/**
 
 **Learn more about Reinforcement Learning: https://www.youtube.com/watch?v=LzaWrmKL1Z4**
